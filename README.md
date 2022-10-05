@@ -11,3 +11,6 @@ We exercise to build a basic message relay service connects clients voa websocke
 * create connection ID-> `uuid`
 
 * async data streams of websocket -> `futures`
+
+
+I yet to implement the above approach, which will be much faster than the current trait approach ;) Later~
